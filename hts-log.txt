@@ -1,0 +1,251 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 29 Apr 2024 12:36:04 at https://techtrix.peacefulqode.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://techtrix.peacefulqode.com/ -O1 "C:\My Web Sites\bct" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:38:24	Error: 	"Forbidden" (403) at link https://techtrix.peacefulqode.com/xmlrpc.php?rsd (from https://techtrix.peacefulqode.com/)
+12:41:41	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/404 (from https://techtrix.peacefulqode.com/)
+12:43:50	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core/assests/css/owl.video.play.png (from https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core//assests/css/owl.carousel.min.css?ver=1.1.0)
+12:43:50	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core/assests/css/flaticon/collection-1/Flaticon.eot (from https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core//assests/css/flaticon/collection-1/flaticon.css?ver=2.0.0)
+12:43:50	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core/assests/images/arrow-left.svg (from https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core//assests/css/timeline.min.css?ver=2.0.0)
+12:43:50	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core/assests/images/arrow-right.svg (from https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core//assests/css/timeline.min.css?ver=2.0.0)
+12:43:50	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core/assests/css/mCSB_buttons.png (from https://techtrix.peacefulqode.com/wp-content/plugins/techtrix-core//assests/css/jquery.mCustomScrollbar.min.css?ver=2.3.4)
+12:43:54	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=1081
+12:43:54	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=1081 to https://techtrix.peacefulqode.com/home-modern/
+12:43:54	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=24030
+12:43:54	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=24030 to https://techtrix.peacefulqode.com/start-up-home/
+12:43:55	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=738
+12:43:55	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=738 to https://techtrix.peacefulqode.com/it-agency/
+12:43:55	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/analytic-solutions/ (from https://techtrix.peacefulqode.com/it-agency/)
+12:43:59	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=24809
+12:43:59	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=24809 to https://techtrix.peacefulqode.com/softwar-company/
+12:43:59	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=1076
+12:43:59	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=1076 to https://techtrix.peacefulqode.com/home-classic/
+12:43:59	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=27563
+12:43:59	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=27563 to https://techtrix.peacefulqode.com/it-solution/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=27571
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=27571 to https://techtrix.peacefulqode.com/tech-solutions/
+12:44:00	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/uploads/2021/06/team-8.png (from https://techtrix.peacefulqode.com/tech-solutions/)
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=27572
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=27572 to https://techtrix.peacefulqode.com/software-solution/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26997
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26997 to https://techtrix.peacefulqode.com/digital-solution/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26838
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26838 to https://techtrix.peacefulqode.com/it-chroma/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26847
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26847 to https://techtrix.peacefulqode.com/it-technologies/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26219
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26219 to https://techtrix.peacefulqode.com/onepage/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26359
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26359 to https://techtrix.peacefulqode.com/onepage-2/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26404
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26404 to https://techtrix.peacefulqode.com/onepage-3/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4128
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4128 to https://techtrix.peacefulqode.com/software-development/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4143
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4143 to https://techtrix.peacefulqode.com/web-development/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=6884
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=6884 to https://techtrix.peacefulqode.com/mobile-development/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=6909
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=6909 to https://techtrix.peacefulqode.com/app-development/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=6890
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=6890 to https://techtrix.peacefulqode.com/qa-testing/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=5999
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=5999 to https://techtrix.peacefulqode.com/product-design/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4125
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4125 to https://techtrix.peacefulqode.com/about-us/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4132
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4132 to https://techtrix.peacefulqode.com/services/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4135
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4135 to https://techtrix.peacefulqode.com/our-team/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=23265
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=23265 to https://techtrix.peacefulqode.com/ledership/
+12:44:00	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26307
+12:44:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26307 to https://techtrix.peacefulqode.com/2-column-shop/
+12:44:36	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26293
+12:44:36	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26293 to https://techtrix.peacefulqode.com/3-column-shop/
+12:44:55	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26295
+12:44:55	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26295 to https://techtrix.peacefulqode.com/4-column-shop/
+12:44:56	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26298
+12:44:56	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26298 to https://techtrix.peacefulqode.com/5-column-shop/
+12:44:57	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26300
+12:44:57	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26300 to https://techtrix.peacefulqode.com/6-column-shop/
+12:44:57	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26303
+12:44:57	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26303 to https://techtrix.peacefulqode.com/best-selling-products/
+12:45:11	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26305
+12:45:11	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26305 to https://techtrix.peacefulqode.com/on-sale-products/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4181
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4181 to https://techtrix.peacefulqode.com/pricing-plan/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4175
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4175 to https://techtrix.peacefulqode.com/faq/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4002
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4002 to https://techtrix.peacefulqode.com/standard/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4154
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4154 to https://techtrix.peacefulqode.com/masonry/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4157
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4157 to https://techtrix.peacefulqode.com/masonry-joined/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4160
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4160 to https://techtrix.peacefulqode.com/2-columns/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4162
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4162 to https://techtrix.peacefulqode.com/3-columns/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4164
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4164 to https://techtrix.peacefulqode.com/3-columns-wide/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4166
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4166 to https://techtrix.peacefulqode.com/4-columns-wide/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=5214
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=5214 to https://techtrix.peacefulqode.com/portfolio-single/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4189
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4189 to https://techtrix.peacefulqode.com/one-column-blog/
+12:45:12	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/one-column-blog/?paged=2
+12:45:12	Warning: 	File has moved from https://techtrix.peacefulqode.com/one-column-blog/?paged=2 to https://techtrix.peacefulqode.com/one-column-blog/page/2/
+12:45:14	Error: 	"Forbidden" (403) at link https://techtrix.peacefulqode.com/wp-login.php (from https://techtrix.peacefulqode.com/one-column-blog/)
+12:45:14	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4191
+12:45:14	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4191 to https://techtrix.peacefulqode.com/two-column-blog/
+12:45:14	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/two-column-blog/?paged=2
+12:45:14	Warning: 	File has moved from https://techtrix.peacefulqode.com/two-column-blog/?paged=2 to https://techtrix.peacefulqode.com/two-column-blog/page/2/
+12:45:14	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4193
+12:45:14	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4193 to https://techtrix.peacefulqode.com/three-column-blog/
+12:45:14	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/three-column-blog/?paged=2
+12:45:14	Warning: 	File has moved from https://techtrix.peacefulqode.com/three-column-blog/?paged=2 to https://techtrix.peacefulqode.com/three-column-blog/page/2/
+12:45:17	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4199
+12:45:17	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4199 to https://techtrix.peacefulqode.com/blog-right-sidebar/
+12:45:17	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/blog-right-sidebar/?paged=2
+12:45:17	Warning: 	File has moved from https://techtrix.peacefulqode.com/blog-right-sidebar/?paged=2 to https://techtrix.peacefulqode.com/blog-right-sidebar/page/2/
+12:45:18	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4202
+12:45:18	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4202 to https://techtrix.peacefulqode.com/blog-left-sidebar/
+12:45:18	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/blog-left-sidebar/?paged=2
+12:45:18	Warning: 	File has moved from https://techtrix.peacefulqode.com/blog-left-sidebar/?paged=2 to https://techtrix.peacefulqode.com/blog-left-sidebar/page/2/
+12:45:19	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=7401
+12:45:19	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=7401 to https://techtrix.peacefulqode.com/app-promotes-sales-profits-in-it-solutions/
+12:45:19	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/uploads/2021/02/1-11.jpg (from https://techtrix.peacefulqode.com/app-promotes-sales-profits-in-it-solutions/)
+12:45:19	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/uploads/2021/02/5-3.jpg (from https://techtrix.peacefulqode.com/app-promotes-sales-profits-in-it-solutions/)
+12:45:20	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4620
+12:45:20	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4620 to https://techtrix.peacefulqode.com/contact-us/
+12:45:20	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=22183
+12:45:20	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=22183 to https://techtrix.peacefulqode.com/portfolio/professional-services/
+12:45:22	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/2021/06/07/ (from https://techtrix.peacefulqode.com/portfolio-categories/cloud/)
+12:45:22	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/2021/01/12/ (from https://techtrix.peacefulqode.com/portfolio-categories/cloud/)
+12:45:22	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/2020/12/26/ (from https://techtrix.peacefulqode.com/portfolio-categories/cloud/)
+12:45:23	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/2020/12/24/ (from https://techtrix.peacefulqode.com/portfolio-categories/design/)
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=22163
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=22163 to https://techtrix.peacefulqode.com/portfolio/data-protection/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=22161
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=22161 to https://techtrix.peacefulqode.com/portfolio/business-production/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=5312
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=5312 to https://techtrix.peacefulqode.com/portfolio/tech-conference/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=5307
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=5307 to https://techtrix.peacefulqode.com/portfolio/best-it-practices-in-cloud/
+12:45:30	Error: 	"Not Found" (404) at link https://techtrix.peacefulqode.com/wp-content/uploads/2020/12/4-3.jpg (from https://techtrix.peacefulqode.com/portfolio/best-it-practices-in-cloud/)
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=570
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=570 to https://techtrix.peacefulqode.com/portfolio/app-for-virtual-reality-7/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=560
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=560 to https://techtrix.peacefulqode.com/portfolio/cyber-security-analysis/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=559
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=559 to https://techtrix.peacefulqode.com/portfolio/problem-solutions/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=558
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=558 to https://techtrix.peacefulqode.com/portfolio/it-consulting/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=263
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=263 to https://techtrix.peacefulqode.com/portfolio/product-engineering/
+12:45:30	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=7396
+12:45:30	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=7396 to https://techtrix.peacefulqode.com/in-depth-industry-ecosystem-analysis/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4461
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4461 to https://techtrix.peacefulqode.com/new-remote-workers-visible-to-security/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4456
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4456 to https://techtrix.peacefulqode.com/ways-to-develop-a-world-class-sales-operations/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4446
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4446 to https://techtrix.peacefulqode.com/how-can-i-manage-it-business-factor/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4441
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4441 to https://techtrix.peacefulqode.com/define-world-best-it-solution-technology/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4436
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4436 to https://techtrix.peacefulqode.com/building-data-analytics-software/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4431
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4431 to https://techtrix.peacefulqode.com/plan-your-project-with-your-software/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4426
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4426 to https://techtrix.peacefulqode.com/tips-to-make-your-workforce-a-security/
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=4419
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=4419 to https://techtrix.peacefulqode.com/planning-your-online-business-goals/
+12:45:34	Warning: 	File not parsed, looks like binary: https://techtrix.peacefulqode.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+12:45:34	Warning: 	File not parsed, looks like binary: https://techtrix.peacefulqode.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+12:45:34	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=5996
+12:45:34	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=5996 to https://techtrix.peacefulqode.com/cloud-and-devops/
+12:45:35	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26245
+12:45:35	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26245 to https://techtrix.peacefulqode.com/product/logo-collection/
+12:45:35	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/product/
+12:45:35	Warning: 	File has moved from https://techtrix.peacefulqode.com/product/ to https://techtrix.peacefulqode.com/product-design/
+12:45:37	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=9ea06a8d8fab507a3061e3b60382bc96&_wpnonce=dad713f5de
+12:45:37	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=9ea06a8d8fab507a3061e3b60382bc96&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:45:51	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26236
+12:45:51	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26236 to https://techtrix.peacefulqode.com/product/single/
+12:45:54	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=0a2f057963744e807fd6cc070fb617df&_wpnonce=dad713f5de
+12:45:54	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=0a2f057963744e807fd6cc070fb617df&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:45:56	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26230
+12:45:56	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26230 to https://techtrix.peacefulqode.com/product/sunglasses/
+12:46:00	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=7ff4b6021c6a582ae204924c3e9a181f&_wpnonce=dad713f5de
+12:46:00	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=7ff4b6021c6a582ae204924c3e9a181f&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:02	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26228
+12:46:02	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26228 to https://techtrix.peacefulqode.com/product/belt/
+12:46:04	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=3e50e8000abcae07f804133720d7d172&_wpnonce=dad713f5de
+12:46:04	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=3e50e8000abcae07f804133720d7d172&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:05	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26232
+12:46:05	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26232 to https://techtrix.peacefulqode.com/product/hoodie-with-zipper/
+12:46:08	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=2da535ad78bb2e93aa448b1a4a61134e&_wpnonce=dad713f5de
+12:46:08	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=2da535ad78bb2e93aa448b1a4a61134e&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:08	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26227
+12:46:08	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26227 to https://techtrix.peacefulqode.com/product/beanie/
+12:46:18	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=1e360e456bb346d5ec2e9d6b411a323f&_wpnonce=dad713f5de
+12:46:18	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=1e360e456bb346d5ec2e9d6b411a323f&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/3-column-shop/?removed_item=1
+12:46:21	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26226
+12:46:21	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26226 to https://techtrix.peacefulqode.com/product/t-shirt/
+12:46:23	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?remove_item=9d87fd8b5cbe7f5251c9e8cc5b58b52c&_wpnonce=dad713f5de
+12:46:23	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?remove_item=9d87fd8b5cbe7f5251c9e8cc5b58b52c&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/3-column-shop/?removed_item=1
+12:46:23	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=26235
+12:46:23	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=26235 to https://techtrix.peacefulqode.com/product/album/
+12:46:37	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/portfolio/?paged=2
+12:46:37	Warning: 	File has moved from https://techtrix.peacefulqode.com/portfolio/?paged=2 to https://techtrix.peacefulqode.com/portfolio/page/2/
+12:46:38	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=262
+12:46:38	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=262 to https://techtrix.peacefulqode.com/portfolio/cyber-security/
+12:46:38	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=259
+12:46:38	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=259 to https://techtrix.peacefulqode.com/portfolio/web-analysis/
+12:46:38	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=402
+12:46:38	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=402 to https://techtrix.peacefulqode.com/you-must-try-20-secret-of-digital-transform/
+12:46:39	Warning: 	Moved Permanently for techtrix.peacefulqode.com/robots.txt
+12:46:39	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/robots.txt and https://techtrix.peacefulqode.com/robots.txt
+12:46:39	Warning: 	Warning moved treated for techtrix.peacefulqode.com/robots.txt (real one is https://techtrix.peacefulqode.com/robots.txt)
+12:46:39	Warning: 	Moved Permanently for techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:39	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/2-column-shop/?removed_item=1 and https://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:39	Warning: 	File has moved from techtrix.peacefulqode.com/2-column-shop/?removed_item=1 to https://techtrix.peacefulqode.com/2-column-shop/?removed_item=1
+12:46:39	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=9013
+12:46:39	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=9013 to https://techtrix.peacefulqode.com/cart/
+12:46:39	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?undo_item=9ea06a8d8fab507a3061e3b60382bc96&_wpnonce=dad713f5de
+12:46:39	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?undo_item=9ea06a8d8fab507a3061e3b60382bc96&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/cart/
+12:46:39	Warning: 	Moved Permanently for https://techtrix.peacefulqode.com/?p=9014
+12:46:39	Warning: 	File has moved from https://techtrix.peacefulqode.com/?p=9014 to https://techtrix.peacefulqode.com/checkout/
+12:46:43	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?undo_item=0a2f057963744e807fd6cc070fb617df&_wpnonce=dad713f5de
+12:46:43	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?undo_item=0a2f057963744e807fd6cc070fb617df&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230&product-page=2
+12:46:45	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?undo_item=7ff4b6021c6a582ae204924c3e9a181f&_wpnonce=dad713f5de
+12:46:45	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?undo_item=7ff4b6021c6a582ae204924c3e9a181f&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228&product-page=2
+12:46:46	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?undo_item=3e50e8000abcae07f804133720d7d172&_wpnonce=dad713f5de
+12:46:46	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?undo_item=3e50e8000abcae07f804133720d7d172&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232&product-page=2
+12:46:49	Warning: 	Moved Permanently for techtrix.peacefulqode.com/3-column-shop/?removed_item=1
+12:46:49	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/3-column-shop/?removed_item=1 and https://techtrix.peacefulqode.com/3-column-shop/?removed_item=1
+12:46:49	Warning: 	File has moved from techtrix.peacefulqode.com/3-column-shop/?removed_item=1 to https://techtrix.peacefulqode.com/3-column-shop/?removed_item=1
+12:46:49	Warning: 	Found for https://techtrix.peacefulqode.com/cart/?undo_item=1e360e456bb346d5ec2e9d6b411a323f&_wpnonce=dad713f5de
+12:46:49	Warning: 	File has moved from https://techtrix.peacefulqode.com/cart/?undo_item=1e360e456bb346d5ec2e9d6b411a323f&_wpnonce=dad713f5de to http://techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226&product-page=2
+12:46:51	Warning: 	Moved Permanently for techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230%26product-page=2
+12:46:51	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230%26product-page=2 and https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230%26product-page=2
+12:46:51	Warning: 	File has moved from techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230%26product-page=2 to https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26230%26product-page=2
+12:46:51	Warning: 	Moved Permanently for techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228%26product-page=2
+12:46:51	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228%26product-page=2 and https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228%26product-page=2
+12:46:51	Warning: 	File has moved from techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228%26product-page=2 to https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26228%26product-page=2
+12:46:51	Warning: 	Moved Permanently for techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232%26product-page=2
+12:46:51	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232%26product-page=2 and https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232%26product-page=2
+12:46:51	Warning: 	File has moved from techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232%26product-page=2 to https://techtrix.peacefulqode.com/2-column-shop/?add-to-cart=26232%26product-page=2
+12:46:51	Warning: 	Moved Permanently for techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226%26product-page=2
+12:46:51	Warning: 	Redirected link is identical because of 'URL Hack' option: techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226%26product-page=2 and https://techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226%26product-page=2
+12:46:51	Warning: 	File has moved from techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226%26product-page=2 to https://techtrix.peacefulqode.com/3-column-shop/?add-to-cart=26226%26product-page=2
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 48 seconds : 1105 links scanned, 980 files written (69057533 bytes overall) [70548776 bytes received at 108871 bytes/sec], 12788 bytes transferred using HTTP compression in 1 files, ratio 38%, 8.3 requests per connection
+(17 errors, 223 warnings, 0 messages)
